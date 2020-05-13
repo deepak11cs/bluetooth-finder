@@ -1,0 +1,17 @@
+{
+  "name": "BluetoothFinder",
+  "displayName": "BluetoothFinder",
+  "expo": {
+    "name": "BluetoothFinder",
+    "slug": "BluetoothFinder",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
